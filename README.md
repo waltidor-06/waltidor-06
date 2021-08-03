@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @waltidor-06
+- 👋 Hi, I’m Wigensky Altidor
 - 👀 I’m interested in 
 - 🌱 I’m currently learning the Full Stack at Digital Crafts
 
