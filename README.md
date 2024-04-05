@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Wigensky Altidor
-- 👀 I’m interested in 
-- 🌱 I’m currently learning the Full Stack at Digital Crafts
+- 👀 I’m interested in Data Science
 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...wigenskyaltidor@gmail.com 
+- 📫 How to reach me ...ax8898613@protonmail.com
 
 <!---
 waltidor-06/waltidor-06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
